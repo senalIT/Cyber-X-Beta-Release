@@ -36,26 +36,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.vcardowner = ['94750320813'] //ur owner number
+global.ownername = "SENAL BOY" //ur owner name
+global.ytname = "YT: DJ SENAL OFFICIAL" //ur yt chanel name
+global.socialm = "GitHub:  senalIT" //ur github or insta name
+global.location = "Sri Lanka, Ehaliyagoda, kaluadura" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '94711421243' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
-global.sc = 'https://github.com/darkalphaxteam' //script link
-global.linkz = 'https://youtu.be/uzMbW5v9QLE'
+global.owner = ['94750320813']
+global.ownertag = '94750320813' //ur tag number
+global.botnumber = '94750320813' //Add your Bot Number For Log
+global.botname = 'SENAL-BOT BETA EDITION' //ur bot name
+global.ig = "https://www.youtube.com/watch?v=aqIRrJDSz6U" //your theme url which will be displayed on whatsapp
+global.myweb = "https://www.youtube.com/watch?v=aqIRrJDSz6U" //ur website to be displayed
+global.sc = 'https://github.com/senalIT' //script link
+global.linkz = 'https://www.youtube.com/watch?v=aqIRrJDSz6U'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
+global.packname = "SENAL-X Test Bot" //ur sticker watermark packname
+global.author = "SENAL BOY" //ur sticker watermark author
+global.footer = "® SENAL-BOT BETA"
 global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['94750320813'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
